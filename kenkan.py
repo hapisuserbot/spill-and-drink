@@ -74,6 +74,19 @@ SPILLS = [
  "spill orang paling dongo",
  "spill kelakuan cp yang suka bikin cemburu",
  "spill crush yg ga peka²",
+ "spill admin tergoblok",
+ "spill nama bapak lu",
+ "spill nama pacar lu yg buaya",
+ "spill nama temen lu yg sangean",
+ "spill nama ibu lu",
+ "spill parfum yg di pake sama crush lu",
+ "spill muka mantan yg paling lu sayang",
+ "spill muka crush lu",
+ "spill muka bapak lu",
+ "spill muka emak lu",
+ "spill foto muka kucing lu",
+ "spill temen l yg suka ghibah",
+ "hapis cogan kan?iya aja udah",
 ]
 
 # drink
