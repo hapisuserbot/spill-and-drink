@@ -134,6 +134,6 @@ async def request(client: Client, message: Message):
     
 @bot.on_message(filters.command("repo"))
 async def repos(client: Client, message: Message):
-    await message.reply("[SPILL AND DRINK](https://github.com/BukanDev/spill-and-drink)\nCek aja udah bisa di deploy di heroku")
+    await message.reply("[SPILL AND DRINK](https://github.com/hapisuserbot/spill-and-drink)\nCek aja udah bisa di deploy di heroku")
 
 bot.run()
