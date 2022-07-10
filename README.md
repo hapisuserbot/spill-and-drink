@@ -1,7 +1,7 @@
 ## SPILL AND DRINK BOT
 
 ___
-Ini adalah repo original code pertama saya, jadi maklumin aja kalau banyak kekurangannya
+Ini adalah repo FORK ya dari mas ken, jadi maklumin aja kalau banyak kekurangannya
 ___
 
 # Deploy on Heroku
@@ -10,7 +10,7 @@ ___
 <br>
 
 <h3 align="left">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/BukanDev/spill-and-drink"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://https://github.com/hapisuserbot/spill-and-drink"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 </details>
 
 ## Deploy Vps
